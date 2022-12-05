@@ -10,4 +10,7 @@
 
 	IPYNB renderer python package
 
-6. 
+6. Before Commit Git changes, Configure Username and EMail ID (Only for the first time)
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
