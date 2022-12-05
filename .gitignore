@@ -1,1 +1,4 @@
 DS-Projects-Notes.txt
+
+# Ignore log files
+*.log
