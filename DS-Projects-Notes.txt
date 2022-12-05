@@ -1,0 +1,13 @@
+1. Open Visual Code in the Folder
+
+2. Open a Terminal in Visual Code
+
+3. git init
+
+4. touch README.md
+
+5. enter text in README.md file
+
+	IPYNB renderer python package
+
+6. 
